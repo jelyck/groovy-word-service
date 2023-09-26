@@ -1,2 +1,5 @@
 # groovy-word-service
-Word service API in Groovy
+
+A simple service to compare Groovy to Java.
+
+See: https://github.com/jelyck/java-word-service
